@@ -1,0 +1,6 @@
+1;Simone;0->Babysitter;2000-06-21
+
+1;1;Colf;1111-11-11
+2;Salvatore;Babysitter;0009-01-01
+3;Daniele;Babysitter;4567-09-08
+1;Simone Giacomini;Giardiniere;2018-05-21
